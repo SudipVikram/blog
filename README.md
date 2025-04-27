@@ -1,43 +1,50 @@
-# Chirpy Starter
+# 🌟 Beyond Apogee Blog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to the **Beyond Apogee Blog** — the official space where we share our journey of bringing **Robotics, AI, Python Programming, Game Development, and Computer Vision** to students, teachers, and makers.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+We believe in **learning by doing** — and this blog is here to inspire, guide, and support young learners and educators who are excited to explore the world of technology through hands-on projects.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 📚 What You'll Find Here
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- 🐍 **Python Programming Tutorials**  
+  Beginner-friendly guides using our very own **SajiloPython Playground IDE** and **SajiloPython Library**.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- 🎮 **Game Development Made Easy**  
+  Build fun, interactive games with **SajiloPyGame** — simplified game development on top of Pygame.
 
-## Usage
+- 🖐️ **Computer Vision Projects**  
+  Explore hand tracking, pose estimation, and gesture-controlled games using **SajiloCV**.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+- 🚀 **Robotics and AI Learning Resources**  
+  From lighting up LEDs to launching water rockets and flying RC aircraft, learn Robotics and AI through engaging, real-world projects.
 
-## Contributing
+- 🎉 **Event Updates and Success Stories**  
+  Follow our workshops, competitions, and classroom experiences from partner schools across Nepal.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
+## 🛠️ Sajilo Tools We Talk About
 
-This work is published under [MIT][mit] License.
+| Tool                           | Purpose                                    |
+|----------------------------------|--------------------------------------------|
+| **SajiloPython Playground IDE**  | Beginner-friendly Python IDE designed for schools and kids. |
+| **SajiloPython Library**         | Simple commands to control characters, backgrounds, and sounds for game development. |
+| **SajiloPyGame**                 | Easy-to-use game development library built on Pygame. |
+| **SajiloCV**                     | Gesture detection, hand tracking, and computer vision made simple for students. |
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+---
+
+## 🏫 Who This Blog Is For
+
+- 👩‍🏫 **Teachers and Educators** looking to integrate Python, AI, Robotics, and Computer Vision into their classrooms.
+- 👩‍💻 **Students and Beginners** curious about coding and hands-on learning.
+- 🧑‍🔬 **Makers, Tinkerers, and STEAM Enthusiasts** ready to experiment and build creative projects.
+
+---
+
+## 🌱 Getting Started
+
+Visit the blog here:  
+➡️ **[https://SudipVikram.github.io](https://SudipVikram.github.io)**  
